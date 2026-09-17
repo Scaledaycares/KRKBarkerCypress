@@ -203,14 +203,14 @@ vertical-align: middle;
     }
 
 #messagebtn {
-width: 32px !important;
-height: 32px !important;
+width: 45px !important;
+height: 45px !important;
 background-color: #0864a4 !important;
 border-radius: 50% !important;
-background-image: url('https://pub-files-live.illions.com/live/Blockstation/2288/ae20d128-a64c-45b1-89d6-f675238bdf25/e278a15d-7888-43f4-b853-de2a54e970c7.svg') !important;
+background-image: url('https://scaledaycares.github.io/messagebtn/messagebtn.png') !important;
 background-repeat: no-repeat !important;
 background-position: center !important;
-background-size: 16px 16px !important; /* Adjust size to fit the button */
+background-size: 50px 45px !important; /* Adjust size to fit the button */
 border: none !important;
 cursor: pointer !important;
 }
